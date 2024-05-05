@@ -12,7 +12,7 @@ An STK push alert looks like:
 
 To install this app, copy the following and paste into an active virtual environment:
 
-`pip install`
+`pip install https://github.com/nicksonlangat/django_daraja_interface/releases/download/v01/django-daraja-0.1.tar.gz`
 
 Then add, to your `settings.py`, under `INSTALLED_APPS`:
 
